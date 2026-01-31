@@ -50,15 +50,16 @@ grahmin_sahayak_bot/
 ## Setup Instructions
 
 ### 1. Clone the repository
-
 git clone https://github.com/your-username/gramin-sahayak.git
 cd gramin-sahayak
+
 2. Create and activate virtual environment
 python -m venv venv
 venv\Scripts\activate
-3. Install dependencies
+
+4. Install dependencies
 pip install -r requirements.txt
-4. Install ffmpeg
+Install ffmpeg
 Download ffmpeg from:
 https://www.gyan.dev/ffmpeg/builds/
 
