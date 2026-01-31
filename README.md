@@ -70,13 +70,20 @@ Environment Variables
 Create a .env file in the project root:
 
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+
 GROQ_API_KEY=your_llm_api_key
+
 DATABASE_URL=your_postgres_database_url
+
 Running the Project
 Build RAG index (run once or when PDFs change)
+
 python build_index.py
+
 Run Telegram bot
+
 python bots/telegram_bot.py
+
 Current Status
 Core functionality is complete and working.
 The project can be extended further with additional language support, external bank APIs, or deployment to cloud services.
@@ -84,13 +91,3 @@ The project can be extended further with additional language support, external b
 Author
 Prateeksha Khichi
 
-
-
-
-## `.gitignore` (Minimal & Realistic)
-venv/
-__pycache__/
-.env
-*.log
-*.ogg
-*.wav
