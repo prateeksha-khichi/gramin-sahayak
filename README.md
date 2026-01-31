@@ -234,13 +234,6 @@ gramin_sahayak_bot/
 
 ---
 
-## 📞 Support
-
-- **Cyber Crime Helpline**: 1930
-- **Banking Ombudsman**: 14448
-- **GitHub Issues**: [Create issue]
-
----
 
 ## 📄 License
 
@@ -254,5 +247,6 @@ Built for rural India 🇮🇳
 Empowering financial literacy one conversation at a time.
 
 ---
+
 
 Made with ❤️ for Gramin Bharat
